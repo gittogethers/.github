@@ -4,7 +4,7 @@ GitTogethers are developer meetups led by local community experts and powered by
 
 We believe in the power of collaboration and knowledge sharing to drive innovation and growth within the tech industry. Our mission is to bring together developers, open-source enthusiasts, and tech communities to learn, share, and build something great, together!
 
-![image](/assets/find-gittogethers.png)
+![image](/assets/gittogethers.png)
 
 ## Upcoming Events
 
