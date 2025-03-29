@@ -8,6 +8,7 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 ## Upcoming Events
 
+- [CI/CD de Microservicios con GitHub Actions para Entornos MultiCloud](https://www.meetup.com/gittogether-medellin/events/306335341/) on 29th March 2025
 - [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/306748793/) on 12th April 2025
 
 Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events.
