@@ -9,6 +9,7 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 ## Upcoming Events
 
 - [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/306748793/) on 12th April 2025
+- [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307110818/) on 19th April 2025
 
 Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events.
 
