@@ -10,8 +10,8 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 - [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307110818/) on 19th April 2025
 - [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190878/) on 26th April 2025
-- [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/307190609/) on 17th May 2025
 - [GitTogether Delhi NCR](https://www.meetup.com/gittogether-delhi/events/307190906/) on 17th May 2025
+- [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/307190609/) on 24th May 2025
 - [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307190830/) on 24th May 2025
 - [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190867/) on 24th May 2025
 
