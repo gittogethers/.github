@@ -8,7 +8,6 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 ## Upcoming Events
 
-- [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190878/) on 26th April 2025
 - [GitTogether CDMX - Season of AI](https://www.meetup.com/gittogether-cdmx/events/306948674/) on 3rd May 2025
 - [From Idea to Impact: GitTogether Product Meetup](https://www.meetup.com/gittogether-delhi/events/307459778/) on 17th May 2025
 - [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/307190609/) on 24th May 2025
