@@ -9,6 +9,7 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 ## Upcoming Events
 
 - [GitTogether CDMX - Season of AI](https://www.meetup.com/gittogether-cdmx/events/306948674/) on 3rd May 2025
+- [Open Source Brasil com Leticia 'Levxyca' Leonardo](https://www.meetup.com/gittogether-brasil/events/307529519/) on 9th May 2025
 - [From Idea to Impact: GitTogether Product Meetup](https://www.meetup.com/gittogether-delhi/events/307459778/) on 17th May 2025
 - [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/307190609/) on 24th May 2025
 - [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307190830/) on 24th May 2025
