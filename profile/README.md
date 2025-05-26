@@ -21,8 +21,6 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events.
 
-![find-gittogethers](/assets/find-gittogethers.png)
-
 | Region | City | Meetup URL |
 |--------|------|------------|
 | APAC | Bengaluru 🇮🇳 | [meetup.com/gittogether-bengaluru](https://www.meetup.com/gittogether-bengaluru) |
