@@ -23,22 +23,22 @@ Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) t
 
 ![find-gittogethers](/assets/find-gittogethers.png)
 
-| Region | City | City Repo | Meetup URL |
-|--------|------|-----------|------------|
-| APAC | Bengaluru 🇮🇳 | [gittogethers/bengaluru](https://github.com/gittogethers/bengaluru) | [meetup.com/gittogether-bengaluru](https://www.meetup.com/gittogether-bengaluru) |
-| APAC | Delhi NCR 🇮🇳 | [gittogethers/delhi](https://github.com/gittogethers/delhi) | [meetup.com/gittogether-delhi](https://www.meetup.com/gittogether-delhi) |
-| APAC | Hyderabad 🇮🇳 | [gittogethers/hyderabad](https://github.com/gittogethers/hyderabad) | [meetup.com/gittogether-hyderabad](https://www.meetup.com/gittogether-hyderabad) |
-| APAC | Mumbai 🇮🇳 | [gittogethers/mumbai](https://github.com/gittogethers/mumbai) | [meetup.com/gittogether-mumbai](https://www.meetup.com/gittogether-mumbai) |
-| LATAM | Buenos Aires 🇦🇷 | [gittogethers/buenosaires](https://github.com/gittogethers/buenosaires) | [meetup.com/gittogether-buenos-aires](https://www.meetup.com/gittogether-buenos-aires) |
-| LATAM | CDMX 🇲🇽 | [gittogethers/cdmx](https://github.com/gittogethers/cdmx) | [meetup.com/gittogether-cdmx](https://www.meetup.com/gittogether-cdmx) |
-| LATAM | Florianopolis 🇧🇷 | [gittogethers/florianopolis](https://github.com/gittogethers/florianopolis) | [meetup.com/gittogether-brasil](https://www.meetup.com/gittogether-brasil) |
-| LATAM | Fortaleza 🇧🇷 | [gittogethers/fortaleza](https://github.com/gittogethers/fortaleza) | [meetup.com/gittogether-brasil](https://www.meetup.com/gittogether-brasil) |
-| LATAM | Guatemala City 🇬🇹 | [gittogethers/guatemala](https://github.com/gittogethers/guatemala) | [meetup.com/gittogether-guatemala](https://www.meetup.com/gittogether-guatemala) |
-| LATAM | Medellin 🇨🇴 | [gittogethers/medellin](https://github.com/gittogethers/medellin) | [meetup.com/gittogether-latam](https://www.meetup.com/gittogether-latam) |
-| LATAM | Santiago de Chile 🇨🇱 | [gittogethers/santiago](https://github.com/gittogethers/santiago) | [meetup.com/gittogether-santiago](https://www.meetup.com/gittogether-santiago) |
-| LATAM | Sao Paulo 🇧🇷 | [gittogethers/saopaulo](https://github.com/gittogethers/saopaulo) | [meetup.com/gittogether-brasil](https://www.meetup.com/gittogether-brasil) |
-| LATAM | SJC 🇧🇷 | [gittogethers/sjc](https://github.com/gittogethers/sjc) | [meetup.com/gittogether-sjc](https://www.meetup.com/gittogether-sjc) |
-| LATAM | Villahermosa 🇲🇽 | [gittogethers/villahermosa](https://github.com/gittogethers/villahermosa) | [meetup.com/gittogether-latam](https://www.meetup.com/gittogether-latam) |
+| Region | City | Meetup URL |
+|--------|------|------------|
+| APAC | Bengaluru 🇮🇳 | [meetup.com/gittogether-bengaluru](https://www.meetup.com/gittogether-bengaluru) |
+| APAC | Delhi NCR 🇮🇳 | [meetup.com/gittogether-delhi](https://www.meetup.com/gittogether-delhi) |
+| APAC | Hyderabad 🇮🇳 | [meetup.com/gittogether-hyderabad](https://www.meetup.com/gittogether-hyderabad) |
+| APAC | Mumbai 🇮🇳 | [meetup.com/gittogether-mumbai](https://www.meetup.com/gittogether-mumbai) |
+| LATAM | Buenos Aires 🇦🇷 | [meetup.com/gittogether-buenos-aires](https://www.meetup.com/gittogether-buenos-aires) |
+| LATAM | CDMX 🇲🇽 | [meetup.com/gittogether-cdmx](https://www.meetup.com/gittogether-cdmx) |
+| LATAM | Florianopolis 🇧🇷 | [meetup.com/gittogether-brasil](https://www.meetup.com/gittogether-brasil) |
+| LATAM | Fortaleza 🇧🇷 | [meetup.com/gittogether-brasil](https://www.meetup.com/gittogether-brasil) |
+| LATAM | Guatemala City 🇬🇹 | [meetup.com/gittogether-guatemala](https://www.meetup.com/gittogether-guatemala) |
+| LATAM | Medellin 🇨🇴 | [meetup.com/gittogether-latam](https://www.meetup.com/gittogether-latam) |
+| LATAM | Santiago de Chile 🇨🇱 | [meetup.com/gittogether-santiago](https://www.meetup.com/gittogether-santiago) |
+| LATAM | Sao Paulo 🇧🇷 | [meetup.com/gittogether-brasil](https://www.meetup.com/gittogether-brasil) |
+| LATAM | SJC 🇧🇷 | [meetup.com/gittogether-sjc](https://www.meetup.com/gittogether-sjc) |
+| LATAM | Villahermosa 🇲🇽 | [meetup.com/gittogether-latam](https://www.meetup.com/gittogether-latam) |
 
 ## How to Get Involved
 
