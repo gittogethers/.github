@@ -8,6 +8,7 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 ## Upcoming Events
 
+- [Calculando con el compilador: Comp time vs Run time en Rust](https://www.meetup.com/gittogether-latam/events/308105928/) on 28th May 2025
 - [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190867/) on 31st May 2025
 - [GitTogether Delhi NCR: GitHub Copilot for Product Managers](https://www.meetup.com/gittogether-delhi/events/307459778/) on 31st May 2025
 - [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/307564063/) on 14th June 2025
