@@ -8,16 +8,17 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 ## Upcoming Events
 
-- [Calculando con el compilador: Comp time vs Run time en Rust](https://www.meetup.com/gittogether-latam/events/308105928/) on 28th May 2025
-- [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190867/) on 31st May 2025
-- [GitTogether Delhi NCR: GitHub Copilot for Product Managers](https://www.meetup.com/gittogether-delhi/events/307459778/) on 31st May 2025
+- [Git & Github Copilot from scratch](https://www.meetup.com/gittogether-medellin/events/308134048/) on 7th June 2025
+- [Terra Hack em Floripa: ProgramEarth & GitHub](https://www.meetup.com/gittogether-brasil/events/308158374/) on 10th June 2025
+- [GitHub Meetup](https://www.meetup.com/gittogether-guatemala/events/308248500/) on 12th June 2025
 - [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/307564063/) on 14th June 2025
+- [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190867/) on 21st June 2025
 - [GitTogether Delhi NCR](https://www.meetup.com/gittogether-delhi/events/307190906/) on 21st June 2025
 - [GitTogether São Paulo - JUNHO/2025](https://www.meetup.com/gittogether-brasil/events/307760086/) on 27th June 2025
 - [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307544138/) on 28th June 2025
-- [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307912328/) on 28th June 2025
 - [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307544122/) on 19th July 2025
 - [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/307564080/) on 19th July 2025
+- [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307912328/) on 19th July 2025
 - [GitTogether Delhi NCR](https://www.meetup.com/gittogether-delhi/events/307544295/) on 19th July 2025
 
 Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events.
