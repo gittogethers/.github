@@ -8,7 +8,6 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 ## Upcoming Events
 
-- [GitTogether Delhi NCR](https://www.meetup.com/gittogether-delhi/events/307190906/) on 21st June 2025
 - [GitTogether São Paulo - JUNHO/2025](https://www.meetup.com/gittogether-brasil/events/307760086/) on 27th June 2025
 - [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307544138/) on 28th June 2025
 - [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190867/) on 28th June 2025
