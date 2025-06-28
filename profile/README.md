@@ -8,8 +8,6 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 ## Upcoming Events
 
-- [GitTogether Bengaluru](https://www.meetup.com/gittogether-bengaluru/events/307544138/) on 28th June 2025
-- [GitTogether Mumbai](https://www.meetup.com/gittogether-mumbai/events/307190867/) on 28th June 2025
 - [GitTogether Bengaluru: One Year Anniversary Meetup](https://www.meetup.com/gittogether-bengaluru/events/307544122/) on 19th July 2025
 - [GitTogether Hyderabad: One Year Anniversary Meetup](https://www.meetup.com/gittogether-hyderabad/events/307564080/) on 19th July 2025
 - [GitTogether Mumbai: One Year Anniversary Meetup](https://www.meetup.com/gittogether-mumbai/events/307912328/) on 19th July 2025
