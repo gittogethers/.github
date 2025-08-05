@@ -8,11 +8,11 @@ We believe in the power of collaboration and knowledge sharing to drive innovati
 
 ## Upcoming Events
 
-- [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/308802946/) on 8th August 2025
+- [GitTogether Hyderabad August 2025 Meetup](https://www.meetup.com/gittogether-hyderabad/events/308802946/) on 8th August 2025
 - [GitTogether Delhi NCR August 2025 Meetup](https://www.meetup.com/gittogether-delhi/events/309966047/) on 23rd August 2025
-- [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/310120742/) on 13th September 2025
+- [GitTogether Hyderabad September 2025 Meetup](https://www.meetup.com/gittogether-hyderabad/events/310120742/) on 13th September 2025
 - [GitTogether Delhi NCR September 2025 Meetup](https://www.meetup.com/gittogether-delhi/events/310353416/) on 20th September 2025
-- [GitTogether Hyderabad](https://www.meetup.com/gittogether-hyderabad/events/310168836/) on 11th October 2025
+- [GitTogether Hyderabad October 2025 Meetup](https://www.meetup.com/gittogether-hyderabad/events/310168836/) on 11th October 2025
 - [GitTogether Delhi NCR October 2025 Meetup](https://www.meetup.com/gittogether-delhi/events/310353458/) on 25th October 2025
 
 Check out our [Events Page](https://www.meetup.com/pro/github-virtual-meetup/) to see the upcoming GitTogethers events.
